@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mlr.moi/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mlr.moi/static/js/main.04fc38a4.chunk.js",
+    "main.js.map": "/mlr.moi/static/js/main.04fc38a4.chunk.js.map",
+    "runtime-main.js": "/mlr.moi/static/js/runtime-main.907227f1.js",
+    "runtime-main.js.map": "/mlr.moi/static/js/runtime-main.907227f1.js.map",
+    "static/js/2.e242e974.chunk.js": "/mlr.moi/static/js/2.e242e974.chunk.js",
+    "static/js/2.e242e974.chunk.js.map": "/mlr.moi/static/js/2.e242e974.chunk.js.map",
+    "index.html": "/mlr.moi/index.html",
+    "precache-manifest.909562ff8fb7d6c0ad377f7de8f53f71.js": "/mlr.moi/precache-manifest.909562ff8fb7d6c0ad377f7de8f53f71.js",
+    "service-worker.js": "/mlr.moi/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mlr.moi/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e242e974.chunk.js.LICENSE.txt": "/mlr.moi/static/js/2.e242e974.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mlr.moi/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.907227f1.js",
+    "static/js/2.e242e974.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.04fc38a4.chunk.js"
+  ]
+}
